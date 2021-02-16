@@ -5,4 +5,4 @@ A place to store a range of projects centered on data collected by the UCLA COVI
 - Time Series Analysis with Plotly
 - Tableau dashboard 
 - Twilio Chatbot that users may text to find out more information about the Behind Bars Data Projects
-- Using Tesseracts for OCR on legal documents
+- Using Tesseract for OCR on legal documents
