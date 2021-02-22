@@ -7,7 +7,7 @@ A place to store a range of projects, notebooks and data.
 - [Mapping Immigration Detention Facilities in the United States](https://colab.research.google.com/drive/1m-qQiFJHfEwVBJowMRDQEt1jcH2uJeKJ#scrollTo=tQ6VzF8_0fMI)
 - Time Series Analysis with Plotly
 
-# ICE 
+## ICE 
 ### Projects based on DHS ICE data.  
 - Web scraper that pulls the date, title and description of all News Releases posted to ICE.gov
   - EDA using data that was scraped 
