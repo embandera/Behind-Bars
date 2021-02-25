@@ -8,6 +8,6 @@ A place to store a range of projects, notebooks and data.
 - [Time Series Analysis with Plotly](https://colab.research.google.com/drive/1Ql_4MncKuhjHLRdyHTs0dwj32tzi_gKk?usp=sharing)
 
 ## Datasets 
-* The latest datasets are located in the Projects/Datasets folder. Datasets will be cleaned in future revisions and commited when ready. 
+* The latest datasets produced by these web scrapers are located in the Projects/Datasets folder. Datasets will be cleaned in future revisions and commited when ready. 
 - [Web scraper that pulls the date, title and description of all News Releases posted to ICE.gov](https://colab.research.google.com/drive/1dxwfR4Aewc_1vIiAFkeW05XN6mxXhlHe?usp=sharing)
   - EDA using data that was scraped 
